@@ -1,7 +1,3 @@
-Here's the **README.md** based on your file structure:
-
----
-
 # BioGraphVAE: Bio-Inspired Graph Autoencoder for Structured Data Reconstruction
 
 This repository contains the code and setup to reproduce the results from the paper **"BioGraphVAE: A Bio-inspired Autoencoder for Structured Data Reconstruction."**
